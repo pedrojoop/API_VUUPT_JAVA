@@ -18,8 +18,7 @@ Este projeto é uma solução em Java para integrar a API do sistema de gestão 
 
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
-- Java JDK (versão X.X.X)
-- Maven (versão X.X.X)
+- Java JDK 
 - SQL Server (instância configurada)
 
 ## Configuração
